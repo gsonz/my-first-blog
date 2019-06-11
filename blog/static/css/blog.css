@@ -61,7 +61,9 @@ body {
 
 .post h2, .post h2 a:visited {
 	color: ##2F2F2F;
+	font-family: 'Orbitron', sans-serif;
 	font-size: 30pt;
+	margin-top: 20px;
 }
 
 
