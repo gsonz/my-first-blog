@@ -1,0 +1,67 @@
+h1 a {
+    color: #191717;
+    font-family: 'Teko', sans-serif;
+}
+
+h2 a {
+	color: #2F4F4F;
+	font-family: 'Orbitron', sans-serif;
+}
+
+body {
+    padding-left: 15px;
+    background: url("images/sas6.png") no-repeat right;
+	background-position: right 50px top 20px;
+	background-attachment: fixed;
+}
+    
+.page-header {
+	background-color: #C0C0C0;
+	margin-top: 0;
+	padding: 20px 20px 10px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+	color: #191717;
+	font-size: 66pt;
+	text-decoration: none;
+}
+
+.content {
+	margin-left: 40px;
+}
+
+.date {
+	color: #808080;
+	font-size: 10pt;
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.save {
+	float: right;
+}
+
+.post-form textarea, .post-form input {
+	width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+	color: #ffffff;
+	float: right;
+	font-size: 36pt;
+	margin-right: 20px;
+}
+
+.post {
+	color: ##433333;
+	font-family: 'Mate SC', serif;
+	font-size: 11pt;
+	margin-bottom: 70px;
+}
+
+.post h2, .post h2 a:visited {
+	color: ##2F2F2F;
+	font-size: 30pt;
+}
+
+
